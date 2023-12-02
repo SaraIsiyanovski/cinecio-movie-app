@@ -23,20 +23,20 @@ This is a simple React application that allows users to browse and search for mo
    git clone https://github.com/your-username/cinecio-movie-app.git
 Navigate to the project directory:
 
-bash
+2. bash
 Copy code
 cd cinecio-movie-app
 Install dependencies:
 
-bash
+3. bash
 Copy code
 npm install
 
-Replace api-key with your actual OMDb API key.
+4. Replace api-key with your actual OMDb API key.
 
 Start the development server:
 
-bash
+5. bash
 Copy code
 npm start
 The app will be accessible at http://localhost:3000.
